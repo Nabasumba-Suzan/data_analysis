@@ -1,0 +1,11 @@
+name,class,area,t1_expected,t1_received,t1_balance,risk_flag
+Faith Nakato,P1A,Ntinda,600000,220000,380000,High Risk
+Daniel Kato,P1A,Kireka,450000,450000,0,No Risk
+Moses Okello,P1A,Ntinda,300000,500000,-200000,No Risk
+Peter Ssemwogerere,P1B,Bweyogerere,450000,225000,225000,Medium Risk
+Sarah Namubiru,P1B,Kireka,310000,155000,155000,Low Risk
+John Ochieng,P2A,Kireka,500000,400000,100000,Low Risk
+Grace Akello,P2A,Bweyogerere,500000,400000,100000,Low Risk
+David Mukasa,P2B,Bweyogerere,580000,312500,267500,Medium Risk
+Mary Joan,P2B,Ntinda,420000,312500,107500,Low Risk
+Alex Kintu,P3A,Ntinda,550000,0,550000,High Risk
